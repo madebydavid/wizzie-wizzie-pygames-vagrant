@@ -1,0 +1,3 @@
+[submodule "pygames"]
+	path = pygames
+	url = https://github.com/madebydavid/pygames.git
